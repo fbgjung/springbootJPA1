@@ -37,10 +37,11 @@ out/
 .vscode/
 
 *.properties
-
+*.yml
 *.jar
 
 .DS_Store
 ._.DS_Store
 **/.DS_Store
 **/._.DS_Store
+
